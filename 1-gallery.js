@@ -6,6 +6,7 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
             src="${a}"
             data-source="${o}"
             alt="${i}"
+            width="340"
           />
         </a>
       </li>`).join("")}n.innerHTML=c(e);new t(".gallery a",{captionsData:"alt",captionPosition:"bottom",captionDelay:250});
