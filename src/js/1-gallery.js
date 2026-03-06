@@ -81,6 +81,7 @@ function createGalleryMarkup(items) {
             src="${preview}"
             data-source="${original}"
             alt="${description}"
+            width="340"
           />
         </a>
       </li>`;
